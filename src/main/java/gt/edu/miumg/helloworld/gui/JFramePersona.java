@@ -128,7 +128,7 @@ public class JFramePersona extends javax.swing.JFrame {
 
         jLblEdades.setText("Edades");
 
-        Mostrar.setText("Guardar");
+        Mostrar.setText("Mostrar");
         Mostrar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 MostrarActionPerformed(evt);
